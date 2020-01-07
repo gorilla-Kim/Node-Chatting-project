@@ -32,3 +32,5 @@ avicon socket.io  --save`
 ### 개발모드에서 필요한 모듈 및 프레임워크 설치
 
 `npm i @babel/core @babel/preset-env @babel/preset-react babel-loader css-loader style-loader webpack webpack-cli --save-dev`
+
+update 
